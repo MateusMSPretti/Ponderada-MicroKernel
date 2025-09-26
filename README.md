@@ -104,3 +104,7 @@ Após a execução, uma janela do QEMU se abrirá e o Jogo da Forca será inicia
         └── grub/
             └── grub.cfg    # Arquivo de configuração do GRUB
 ```
+
+### Vídeo Explicativo
+
+[Vídeo](https://drive.google.com/drive/folders/18ymObB7-tpWtJleKrv3zLws9moR35ceg?usp=drive_link)
